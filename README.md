@@ -22,7 +22,7 @@ The site blends visual storytelling, travel photography, reflections, and simple
 A welcome page introducing the project and setting the overall theme.  
 It explains the purpose of the website and provides a starting point for navigation.
 
-### 2. About YCD (Nanaimo & VIU)  
+### 2. About  Nanaimo & VIU   
 A section focused on Nanaimo and the Vancouver Island University campus.  
 This page highlights everyday inspiration found in island life—nature, ocean views, campus atmosphere, and student routines.
 

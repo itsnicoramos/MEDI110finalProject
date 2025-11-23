@@ -8,6 +8,8 @@ body {
     margin: 0;
 }
 
+/* ===== NAVBAR ===== */
+
 .navbar {
     position: sticky;
     top: 0;
@@ -46,7 +48,7 @@ body {
     color: #0077ff;
 }
 
-/* ----- SECTION CARDS ----- */
+/* ===== SECTION CARDS ===== */
 
 .section-card {
     padding: 60px 20px;
@@ -81,15 +83,22 @@ body {
     color: #444;
 }
 
+/* =====  CAROUSEL  ===== */
+
 .card-img {
     flex: 1;
+    display: flex;
+    flex-wrap: wrap;       /* lets you add unlimited photos */
+    gap: 12px;
 }
 
 .card-img img {
-    width: 100%;
+    width: calc(50% - 6px);  /* 2 per row, IG-style */
     border-radius: 12px;
     box-shadow: 0 5px 20px rgba(0,0,0,0.1);
 }
+
+/* ===== FOOTER ===== */
 
 .footer {
   text-align: center;
@@ -97,5 +106,42 @@ body {
   background-color: #e6f3ff;
   color: #555;
   font-size: 0.95rem;
-  border-top: 1px solid #cbdcf5
+  border-top: 1px solid #cbdcf5;
+}
+
+
+
+.social-links {
+    margin-top: 12px;
+    display: flex;
+    justify-content: center;
+    gap: 28px;
+}
+
+.social-links a {
+    font-size: 1.8rem;
+    color: #0077ff;
+    transition: 0.2s ease;
+}
+
+.social-links a:hover {
+    color: #004c99;
+    transform: scale(1.15);
+}
+
+/* ===== SIMPLE ANIMATION w3Schools experimenting stuff  ===== */
+
+section {
+    animation: fadeUp 0.8s ease-in-out;
+}
+
+@keyframes fadeUp {
+    from {
+        opacity: 0;
+        transform: translateY(25px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
