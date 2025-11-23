@@ -65,7 +65,7 @@ This page explains the creative decisions, challenges, and workflow behind build
 All photos used in the project were taken personally in:  
 - Nanaimo Harbour  
 - Downtown Vancouver  
-- Vancouver Island University campus  
+- Vancouver Island University campus Nanaimo, BC
 
 These locations were chosen to explore contrasts between nature and city, calm and movement, and student life and travel.
 
