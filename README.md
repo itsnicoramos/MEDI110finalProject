@@ -10,6 +10,12 @@ The site blends visual storytelling, travel photography, reflections, and simple
 
 ---
 
+## 🔗 Live Website  
+- project is live here:  
+👉 **https://itsnicoramos.github.io/MEDI110finalProject/**
+
+---
+
 ## Website Structure
 
 ### 1. Home  
