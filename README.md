@@ -47,6 +47,7 @@ This page explains the creative decisions, challenges, and workflow behind build
 - **Large, prominent images** used as primary storytelling elements  
 - **Sticky navigation bar** for easy page-to-page movement  
 - **Readable typography and spacing** for a comfortable viewing experience  
+- **Mobile responsive** for ios and android
 
 ---
 
