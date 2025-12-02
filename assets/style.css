@@ -133,6 +133,15 @@ body {
     box-shadow: 0 5px 20px rgba(0,0,0,0.1);
 }
 
+.extra-video {
+    width: 250px;
+    height: 250px;
+    border-radius: 12px;
+    object-fit: cover;
+    flex: 0 0 auto;
+    scroll-snap-align: center;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+}
 /* ===== FOOTER ===== */
 
 .footer {
